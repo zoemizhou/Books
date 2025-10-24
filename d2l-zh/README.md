@@ -1,5 +1,7 @@
 # 动手学深度学习（Dive into Deep Learning，D2L.ai）
 
+This is the book I used for studying Deep Learning.
+
 [第二版：zh.D2L.ai](https://zh.d2l.ai)  | [第一版：zh-v1.D2L.ai](https://zh-v1.d2l.ai/) |  安装和使用书中源代码： [第二版](https://zh.d2l.ai/chapter_installation/index.html) [第一版](https://zh-v1.d2l.ai/chapter_prerequisite/install.html)
 
 <h5 align="center"><i>理解深度学习的最佳方法是学以致用。</i></h5>
